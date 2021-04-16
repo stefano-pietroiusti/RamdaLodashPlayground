@@ -1,0 +1,7 @@
+{
+  "main": "index.js",
+  "dependencies": {
+    "ramda": "0.25.0",
+    "lodash": "4.17.11"
+  }
+}
